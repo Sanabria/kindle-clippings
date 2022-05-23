@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/opt/homebrew/bin/python3
 
 '''
 A Python-script to extract and organise highlights and notes from the "My Clippings.txt" file on a Kindle e-reader. 
